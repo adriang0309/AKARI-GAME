@@ -1,5 +1,8 @@
 # AKARI-GAME
 ## By Adrian GUERRERO
+
+### Develop with JAVAFX
+
 20/05/2024
 
 L’application Akari, est 100% fonctionnel développée avec tout le minimum nécessaire et 
