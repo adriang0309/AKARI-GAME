@@ -16,6 +16,9 @@ Mon application permet aux utilisateurs d’avoir la possibilité de rejouer, si
 un message avec les résultats obtenu quand la partie est finie.
 
 
+----
+
+
 The Akari application is 100% functional, and has been developed with the minimum 
 options, such as grid selection, a score, a timer, the ability to replay and 
 and the ability to return to the menu.
